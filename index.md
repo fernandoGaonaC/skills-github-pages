@@ -1,9 +1,6 @@
 ---
-title: portafolio!
+title: portafolio
 ---
-
-
-
 ## Ing Sistemas
 ## Edison Fernando Gaona Cupa
 ### Stack tecnologico
